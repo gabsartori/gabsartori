@@ -1,7 +1,8 @@
 ## Olá! Eu sou a Gabriela!
 
-- 🔭 Desenvolvedora Full Stack
-- 🌱 Aluna do curso de Análise e Desenvolvimento de Sistemas pela UPF
+- 🔭 Desenvolvedora Full Stack Delphi
+- 🎓 Graduada no curso de Análise e Desenvolvimento de Sistemas - UPF
+- 🌱 Cusando pós-graduação em Gestão e Governança de Tecnologia da Informação - UPF
 
 ![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabsartori&show_icons=true&theme=dracula)
 ##
